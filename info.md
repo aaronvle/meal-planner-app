@@ -81,3 +81,7 @@ For some additional context, expect users to use this application in the browser
 Note, the collection (database) of recipes will need to be stored and be able to be added to as well as be unique to the user that submitted them (one user cannot see another's recipes).
 
 With all that context in mind, my first objective is to get an understanding for all the different "components" or files in the codebase we will have to create. Please detail how you expect we will need to set up the codebase. Please include key files and file types and the reasoning why we will need. Please also include important functions or logic that will need to be built.
+
+
+zzzz
+
