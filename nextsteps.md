@@ -1,8 +1,9 @@
 Next Steps
-Set Up Development Environment:
 
+Set Up Development Environment:
 Install Node.js and npm.
 Initialize separate projects for frontend and backend.
+
 Initialize Git Repository:
 Create a GitHub repository and clone it to your local machine.
 
